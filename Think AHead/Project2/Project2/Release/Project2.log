@@ -1,0 +1,114 @@
+﻿  Grille.cpp
+c:\users\maxen\source\repos\project2\project2\grille.cpp(129): warning C4244: 'argument' : conversion de 'float' en 'unsigned int', perte possible de données
+  Joueur.cpp
+  Source.cpp
+c:\users\maxen\source\repos\project2\project2\source.cpp(228): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(359): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(365): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(375): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\maxen\source\repos\project2\project2\source.cpp(414): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(607): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(850): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(862): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(871): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(1153): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(1255): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(1263): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(1275): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(1282): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(1295): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\maxen\source\repos\project2\project2\source.cpp(1357): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  Génération de code en cours
+  97 of 1229 functions ( 7.9%) were compiled, the rest were copied from previous compilation.
+    43 functions were new in current compilation
+    64 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Project2.vcxproj -> C:\Users\maxen\source\repos\Project2\Release\Think AHead.exe
